@@ -1,1 +1,17 @@
-  hostel food is good
+<HTMLDOC html>
+<html>
+<head>
+<h1 style="font-size:60;">You Recive All Website Links and details</h1>
+</head>
+<body>
+<p style="color:blue;">Instagram
+Instagram <br><h1 style="font-size:100;">(from Facebook) allows you to create and share your photos, stories, and videos with the friends and followers you care about. </p>
+<img src="insta.JPG">
+<a href="https://instagram.com">instagram</a><hr>
+
+<p style="color:green;">Facebook<br>
+Facebook Watch latest news, shows, & streams or upload your own today.Find Photos and Videos On Facebook.
+<img src="image.JPG">
+<a href="https://facebook.com">facebook</a><hr>
+
+
